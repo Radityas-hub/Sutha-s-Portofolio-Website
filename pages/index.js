@@ -153,7 +153,7 @@ export default function Home() {
             <p> Hi, Here Is About Me </p>
           </div>
           <div className={styles.description}>
-            <p> Hi there - My name is I Made Sutha Raditya, I'm usually called Sutha, designing is my passion, I love the process of designing an interface, I'm a student from Primakara University. </p>
+            <p> Hi there - I'm usually called Sutha, I take great pride in my design skills and I am also skilled in front-end development,  with awards recognizing my expertise. I'm a student from Primakara University. </p>
           </div>
           <a href="https://drive.google.com/file/d/1eAom4tnwbtBfrUzmpmx0K_n-ChdyfvbL/view?usp=share_link" target='_blank' rel="noreferrer">
           <div className={styles.btn}>
@@ -261,21 +261,21 @@ export default function Home() {
                         <div className={styles.col}>
                             <div className={styles.details_2}>
                                 <p> 1. </p>
-                                <p> Responsive </p>
+                                <p> Team Collaboration </p>
                             </div>
                             <div className={styles.details_2}>
                                 <p> 2. </p>
-                                <p> Time Discipline </p>
+                                <p> Attention to Detail </p>
                             </div>
                         </div>
                         <div className={styles.col}>
                             <div className={styles.details_2}>
                                 <p> 3. </p>
-                                <p> Responsible </p>
+                                <p> Time Discipline </p>
                             </div>
                             <div className={styles.details_2}>
                                 <p> 4. </p>
-                                <p> Fast Learner </p>
+                                <p> Adaptability </p>
                             </div>
                         </div>
                     </div>
@@ -445,7 +445,7 @@ export default function Home() {
                     height={40}
                   />
                 </div>
-                <p> Radityasutha@gmail.com </p>
+                <p> sutha.radityaa@gmail.com </p>
                 </a>
             </div>
             <div className={styles.kotak}>
@@ -457,7 +457,7 @@ export default function Home() {
                     height={25}
                   />
                 </div>
-                <p> +62881037125523 </p>
+                <p> +6281936748206 </p>
                 </a>
             </div>
             <div className={styles.kotak}>

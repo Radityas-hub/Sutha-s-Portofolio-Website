@@ -777,7 +777,7 @@
 }
 .resume .box {
   width: 470px;
-  height: 270px;
+  height: 310px;
   background-color: #d9d9d9;
   box-shadow: 39px 31px 0px 0px rgba(0,0,0,0.75);
   -webkit-box-shadow: 39px 31px 0px 0px rgba(0,0,0,0.75);
@@ -785,7 +785,7 @@
 }
 .resume .text_content {
   width: 100%;
-  height: 60%;
+  height: 40%;
   display: flex;
   padding: 1em 1em;
 }
@@ -811,8 +811,9 @@
 }
 .resume .achievement {
   width: 100%;
-  height: 40%;
+  height: 60%;
   position: relative;
+  margin-top: 2em;
 }
 .resume .title {
   width: 230px;
@@ -821,7 +822,7 @@
   position: absolute;
   right: 0;
   top: 0;
-  transform: translateY(-0.5em);
+  transform: translateY(-2em);
   padding-top: 0.2em;
   padding-left: 1em;
   text-align: left;
@@ -831,9 +832,8 @@
 .resume .desc {
   width: auto;
   height: auto;
-  position: absolute;
-  bottom: 1.4em;
-  left: 2em;
+  /* position: absolute; */
+  padding-left: 2em;
   font-weight: 600;
   font-size: 15px;
 }
