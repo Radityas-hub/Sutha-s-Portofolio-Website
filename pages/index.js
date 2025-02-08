@@ -331,9 +331,9 @@ export default function Home() {
                 />
               </div>
               <div className={styles.content_box}>
-                <p> Planet Edukasi </p>
-                <p> This website was created to participate in the <b>INVENTION 2022</b>, web competition held by <b>Udayana University</b>, and made by Bocah TI Team.</p>
-                <a href="https://planetedukasi.netlify.app/" target='_blank' rel="noreferrer">
+                <p> Xperience </p>
+                <p> This website was created to participate in the <b>INVENTION 2023</b>, web competition held by <b>Udayana University</b>, and made by Bocah TI Team.</p>
+                <a href="https://invention-2023.vercel.app/" target='_blank' rel="noreferrer">
                 <button className={styles.cta}>
                   <span>Visit</span>
                   <svg viewBox="0 0 13 10" height="10px" width="15px">
@@ -399,9 +399,9 @@ export default function Home() {
                 />
               </div>
               <div className={styles.content_box}>
-                <p> TraveLin </p>
-                <p> This website was created for the school project </p>
-                <a href="https://travelin-2.netlify.app/" target='_blank' rel="noreferrer">
+                <p> Achha Bali </p>
+                <p> Bali tourism website </p>
+                <a href="https://www.acchabali.com/" target='_blank' rel="noreferrer">
                 <button className={styles.cta}>
                   <span>Visit</span>
                   <svg viewBox="0 0 13 10" height="10px" width="15px">
