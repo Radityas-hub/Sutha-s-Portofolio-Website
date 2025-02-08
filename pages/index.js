@@ -44,7 +44,7 @@ export default function Home() {
                 <span className={styles.title_span}> MADE SUTHA RADITYA </span> </p>
               </div>
               <div className={styles.job}>
-                <p> I Wanna Be A UI Developer </p>
+                <p> Your Front-End Developer </p>
               </div>
               <div className={styles.header_link}>
               <a href='#about' className={styles.header_a}> More </a>
@@ -153,7 +153,7 @@ export default function Home() {
             <p> Hi, Here Is About Me </p>
           </div>
           <div className={styles.description}>
-            <p> Hi there - My name is I Made Sutha Raditya, I'm usually called Sutha, designing is my passion, I love the process of designing an interface, I'm a student of SMK TI BALI GLOBAL Badung, I'm currently an intern at PT Taksu Teknologi Indonesia. </p>
+            <p> Hi there - My name is I Made Sutha Raditya, I'm usually called Sutha, designing is my passion, I love the process of designing an interface, I'm a student from Primakara University. </p>
           </div>
           <a href="https://drive.google.com/file/d/1eAom4tnwbtBfrUzmpmx0K_n-ChdyfvbL/view?usp=share_link" target='_blank' rel="noreferrer">
           <div className={styles.btn}>
@@ -181,18 +181,6 @@ export default function Home() {
                 <div className={styles.education_box}>
                 <div className={styles.kotak}>
                    <div className={styles.year}>
-                        <p> 2012- 2018 </p>
-                    </div> 
-                   <div className={styles.details}>
-                        <div className={styles.marker}></div>
-                        <div className={styles.description}>
-                            <p> SDN 3 Pandak Gede </p>
-                            <p> Pandak Gede, Kec. Kediri, Kabupaten Tabanan </p>
-                        </div>
-                   </div>
-                </div>
-                <div className={styles.kotak}>
-                   <div className={styles.year}>
                         <p> 2018 - 2021 </p>
                     </div> 
                    <div className={styles.details}>
@@ -205,13 +193,25 @@ export default function Home() {
                 </div>
                 <div className={styles.kotak}>
                    <div className={styles.year}>
-                        <p> 2021 - Now </p>
+                        <p> 2021 - 2023 </p>
                     </div> 
                    <div className={styles.details}>
                         <div className={styles.marker}></div>
                         <div className={styles.description}>
                             <p> SMK TI Bali Global Badung </p>
                             <p> Jl. Tibung Sari No.1X, Dalung, Kec. Kuta Utara, Kabupaten Badung, </p>
+                        </div>
+                   </div>
+                </div>
+                <div className={styles.kotak}>
+                   <div className={styles.year}>
+                        <p> 2024 - Now </p>
+                    </div> 
+                   <div className={styles.details}>
+                        <div className={styles.marker}></div>
+                        <div className={styles.description}>
+                            <p> Primakara University </p>
+                            <p> Jl. Tukad Badung No.135, Renon, Denpasar Selatan, Kota Denpasar </p>
                         </div>
                    </div>
                 </div>
@@ -287,6 +287,14 @@ export default function Home() {
                             <p> INFINITY 2022 (Contest) - Web Design </p>
                             <p> First Place / Winner </p>
                         </div>
+                        <div className={styles.desc}>
+                            <p> TechComFest 2024 (Contest) - Web Development </p>
+                            <p> Finalist </p>
+                        </div>
+                        <div className={styles.desc}>
+                            <p> FESTIDA 2024 (Contest) - Web Development </p>
+                            <p> 5th Place </p>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -295,7 +303,7 @@ export default function Home() {
 
     <div className={styles.project} id="Project">
       <div className={styles.title}>
-        <p> My Project </p>
+        <p> My Top Projects </p>
         <div className={styles.splash}>
           <Image 
             src="/splash 1.svg"
